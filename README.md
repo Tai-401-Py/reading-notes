@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Reading Notes
 
-You can use the [editor on GitHub](https://github.com/wildwoodwaltz/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Growth Mindset
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A growth mindset is beleiving that people have the ability to **develop skills and tools through dedication and hard work**, rather than by sheer talent alone.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Preparing your brain
+---
 
-```markdown
-Syntax highlighted code block
+|Fixed|vs.|Growth|
+|:---:|:---:| :---: |
+| Fails by||Succeeds by|
+|Avoiding|<-Challenges->|Embracing|
+|Losing Focus|<-Obstacles->|Persisting Through|
+|Vewing as Pointless|<-Effort->|Having a No Pain, No Gain Mindset|
+|Ignoring| <-Critisizm->| Learning From|
+|Viewing as a Threat|<-Sucess of Others->|Being inspired by|
 
-# Header 1
-## Header 2
-### Header 3
+### Reminders for a Growth Mindset
+1. Remember to embrace the challenges you come across
+2. Learn from your mistakes
+3. Nothing is so difficult that you can not learn
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## About me
+---
 
-**Bold** and _Italic_ and `Code` text
+[Git Profile](https://github.com/wildwoodwaltz)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wildwoodwaltz/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Linked in](https://www.linkedin.com/in/tyleregashira/)
