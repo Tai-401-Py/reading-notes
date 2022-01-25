@@ -2,6 +2,10 @@
 # Reflection and Discussion 02:
 ---
 
+[Back to Home](README.md)
+
+---
+
 ## Choosing a text editor
 
 If you've ever wondered what tools should I use for creating code, wheter it be java, python, or even simple HTML web development. You've poroblably asked...

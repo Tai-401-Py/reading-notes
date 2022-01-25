@@ -2,6 +2,10 @@
 ## Growth Mindset
 ---
 
+[Back to Home](README.md)
+
+---
+
 A growth mindset is beleiving that people have the ability to **develop skills and tools through dedication and hard work**, rather than by sheer talent alone.
 
 
