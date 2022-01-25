@@ -79,4 +79,18 @@ File Status
   - $ `git status`
 
 Tracking and Staging
+
+### Github
+---
+
+- It is not git
+- Online code storage
+- Keepos history of all files over time
+- Work on code with many people over the internet where everyone can commit to the same repository.
+
+### Repository
+---
+
+- Collection of files you've told git to pay attention to
+- Usually one pproject = one Repository
 - 
