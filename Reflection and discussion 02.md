@@ -27,5 +27,14 @@ Consider these and what you or your project needs when making your decision
 |pwd|Print Working Directory: where am I|
 |ls| List: What is here|
 |ls -a| List: what is here and also what is hidden|
-|~| Abbreviation for home directory|
+|~| Abbreviation for Home Directory|
+|.| Abbreviation for Current Directory|
+|..| Abbreviation for Parent Directory|
 |cd| Change Directory|
+|man <command>| Manual for command (What does this do)|
+|man -k <term>| Search for term in manual|
+|/term| Within manual search term|
+|n| Next Term|
+|mkdir| Make directory |
+|Modifiers for mkdir|-p make parents : -v view action|
+
