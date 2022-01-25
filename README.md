@@ -26,6 +26,13 @@ A growth mindset is beleiving that people have the ability to **develop skills a
 
 ## About me
 ---
+Hi
+
+My name is Tyler Egashira, I go by Tai. My pronouns are They/Them.
+
+My hobbies include Leather Working, 3d model rigging, 2D model rigging for Vtubers, and playing video games.
+
+![cats](/assets/images/viviandrupert.png)
 
 [Git Profile](https://github.com/wildwoodwaltz)
 
