@@ -16,8 +16,10 @@ There are many different styles of markdown that you can use in order to create 
 
 `# header1` Will create
 ># header1
+
 `*italicize*`
 >*italicize*
+
 `**Bold**`
 >**Bold**
 
