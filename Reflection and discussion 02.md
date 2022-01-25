@@ -37,4 +37,11 @@ Consider these and what you or your project needs when making your decision
 |n| Next Term|
 |mkdir| Make directory |
 |Modifiers for mkdir|-p make parents : -v view action|
-
+|rmdir| Remove directory|
+|touch <filename>| Create a file with filename|
+|cp <source> <destination>| Copies a file from one directory to another|
+|mv <source> <destination>| Moves file from one directory to another|
+|rm <file>|remove file|
+|vi or vim| inline text editor|
+|[ctrl]+[c]|Universal Unix cancel command|
+  
