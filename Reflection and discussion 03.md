@@ -80,6 +80,10 @@ File Status
 
 Tracking and Staging
 
+A-C-P
+|Add|Commit|Push|
+|---|---|---|
+
 ### Github
 ---
 
