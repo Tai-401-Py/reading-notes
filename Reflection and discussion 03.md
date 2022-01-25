@@ -47,9 +47,26 @@ Setting up
 1. Change to target directory
 2. Use `git init` command to start git
 3. To start tracking use the following
-  - `git add *.c`
-  - `git add LICENSE`
-  - `git commit -m "any message here"`
+  - $ `git add *.c`
+  - $ `git add LICENSE`
+  - $ `git commit -m "any message here"`
  
 Cloning
--Copying an existing repository
+- Copying an existing repository
+  - $ `git clone https://github.com/<repository directory>`
+- Copying to a directory
+  - $ `git clone https://github.com/<repository directory> <directory destination>`
+
+Saving Changes
+- Tracked or Untracked
+  - Tracked
+    - Most recent snapshot, can be modified, unmodified, staged
+  - Untracked
+    - Not in the last snapshot and do not in the staging area.
+
+File Status
+- To determine state of file
+  - $ `git status`
+
+Tracking and Staging
+- 
