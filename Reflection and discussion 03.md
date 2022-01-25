@@ -39,7 +39,7 @@ Git is a DCVS (Distributed Version Control System) that stores revisions in snap
     - Commited
       - Data Stored in local database
     - Modified
-      - File data jhas been changed but not commited to database
+      - File data has been changed but not commited to database
     - Staged
       - File's changed version ready to be commited in next snapshot 
 
