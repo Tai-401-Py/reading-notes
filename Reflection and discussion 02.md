@@ -17,6 +17,15 @@ Some things you might consider though for features.
 - Extensions if you might need them
 
 Consider these and what you or your project needs when making your decision
+
 ---
 
-## 
+## Unix/Linux Environment Cheat Sheet
+
+|Command|Description|
+---|---|
+|pwd|Print Working Directory: where am I|
+|ls| List: What is here|
+|ls -a| List: what is here and also what is hidden|
+|~| Abbreviation for home directory|
+|cd| Change Directory|
