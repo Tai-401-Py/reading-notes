@@ -38,3 +38,9 @@ Here is a picture of my two Cats from Left to Right - Vivi and Rupert
 [Git Profile](https://github.com/wildwoodwaltz)
 
 [Linked in](https://www.linkedin.com/in/tyleregashira/)
+
+
+# Assignments
+---
+
+[Reflection and Discussion 01](https://github.com/wildwoodwaltz/reading-notes/blob/main/Refection%20and%20Discussion%2001.md)
