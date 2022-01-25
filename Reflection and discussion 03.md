@@ -10,6 +10,14 @@
 
 What is version control, well it's a catalogue of revisions made. So you can go back and look at what was done. 
 
+Version
+- Format xx.yy.zz
+  - xx - Major Changes
+    - Massive overhauls
+  - yy - Minor Changes
+    - Implemented feature, added 
+  - zz - Bux fixes/miniscule fixes  
+
 - Local Version control
   - Revisions stored on a local database (hard drive) for easy recall
   - Allows for singular control of revisions
@@ -26,7 +34,9 @@ What is version control, well it's a catalogue of revisions made. So you can go 
 
 Git is a DCVS (Distributed Version Control System) that stores revisions in snapshots.
 
-- Snapshot
+- Snapshot (Commit)
+  - Most recent version is called HEAD (You are Here)
+  - Each sucsessive version adds onto or changes portions of previous version a>ab>abc>...ad infinitum
   - Each time you commit (make revisions) to a file Git creates a snapshot (copy) of the version and adds it to the repository (file storage) 
 - Local operations
   - Project history resides on local hard drive eliminating the need to get data from server. Allowing you to work offline.
