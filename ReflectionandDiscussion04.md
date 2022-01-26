@@ -50,11 +50,27 @@ Steps to making a proper wireframe
   - Where do elements go to
 6. Start Turning wireframes into prototypes
 
+## HTML Basics
+
+- HTML is the written language of the internet that structures it
+- it is comprised of elements which tell browsers how to interpret and display information
+  - Parts of an element 
+    - Opening tag
+    - Closing tag
+    - The content
+    - The element
+- Often used in conjuntion with .css to make it look pretty
+
+>HTML is a lot of review for me so parts of it and building webpages is something I know how to generally do.
+
+
 ## Semantics in HTML
 ---
 
-There are several semantic elements in HTML such as `<h1>` tag, by default most browser will read this tag just fine
-There are other ways to accomplish the same thing, but are much longer and unnecessarry 
-
-
-
+- There are several semantic elements in HTML such as `<h1>` tag, by default most browser will read this tag just fine
+- There are other ways to accomplish the same thing, but are much longer and unnecessarry.
+- Search engines use semantic elements for keyword searches
+- Screen readers use them to navigate pages
+- Finding blocks of code beccomes easier without the need to sort through every `<div>`
+- There are roughly 100 semantic elements
+- `<em>` and `<strong>` should be used for extra emphasis instead of `<i>` or `<b>`
