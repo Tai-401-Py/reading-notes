@@ -5,9 +5,9 @@
 1. [About Me](About-Me.md)
 2. [Growth Mindset](Growth-Mindset.md)
 3. [Reflection and Discussion 01](https://github.com/wildwoodwaltz/reading-notes/blob/main/Reflection%20and%20Discussion%2001.md)
-4. [Reflection and Discussion 02](Reflection%20and%20Discussion%2002.md)
-5. [Reflection and Discussion 03](Reflection%20and%20Discussion%2003.md)
-6. [Reflection and Discussion 04](Reflection%20and%20Discussion%2004.md)
+4. [Reflection and Discussion 02](ReflectionandDiscussion02.md)
+5. [Reflection and Discussion 03](ReflectionandDiscussion03.md)
+6. [Reflection and Discussion 04](ReflectionandDiscussion04.md)
 
 
 ## Growth Mindset
