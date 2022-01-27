@@ -16,9 +16,12 @@
 Ex. a script to validate a form submnitted
 
 >`if (field==empty) {`
->`   promptUser();`
->`} else {`
->`    submitForm();`
+
+ `   promptUser();`
+
+ `} else {`
+ 
+ `    submitForm();`
 >`}`
 
 The above function would check to see if a form is completed with no empty fields and run a different function based on whether it's filled or not. 
@@ -28,15 +31,19 @@ The above function would check to see if a form is completed with no empty field
 ---
 
 > // Declaring a function
->` function var(*argument*){*logic*}`
-> or
->`let var = function(){*logic*}`
+
+`function var(*argument*){*logic*}`
+
+or
+
+let var = function(){*logic*}`
+
 >//They are the same thing
 
 A function is a block of code that is designed to performa particular task. It is executed when something invokes it. 
 
 >`function var(x, y){`
->`  return x * y; // returns product of x and y`
+`return x * y; // returns product of x and y`
 >`}` 
 
 **Syntax**
