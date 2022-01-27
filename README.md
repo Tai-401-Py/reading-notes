@@ -9,7 +9,7 @@
 5. [Reflection and Discussion 03](ReflectionandDiscussion03.md)
 6. [Reflection and Discussion 04](ReflectionandDiscussion04.md)
 7. [Reflection and Discussion 05](ReflectionandDiscussion05.md)
-8. [Reflection and Discussion 05](ReflectionandDiscussion05.md)
+8. [Reflection and Discussion 06](ReflectionandDiscussion06.md)
 
 
 ## Growth Mindset
