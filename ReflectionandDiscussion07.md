@@ -15,14 +15,16 @@
 
 Ex. a script to validate a form submnitted
 
->`if (field==empty) {`
-
- `   promptUser();`
-
- `} else {`
- 
- `    submitForm();`
->`}`
+```
+{
+if (field==empty) 
+{
+   promptUser();
+} else {
+     submitForm();
+`}`
+}
+```
 
 The above function would check to see if a form is completed with no empty fields and run a different function based on whether it's filled or not. 
 
@@ -36,15 +38,19 @@ The above function would check to see if a form is completed with no empty field
 
 or
 
-let var = function(){*logic*}`
+`let var = function(){*logic*}`
 
 >//They are the same thing
 
 A function is a block of code that is designed to performa particular task. It is executed when something invokes it. 
 
+```
+{
 >`function var(x, y){`
 `return x * y; // returns product of x and y`
->`}` 
+`}`
+}
+```
 
 **Syntax**
 
@@ -89,9 +95,15 @@ The noun “refactoring” refers to one particular behavior-preserving transfor
   - `let var = prompt(){}`
 - Create Logic that changes response.
   - else/if/then logic
->`if(var) {`
->`response = 'output'}`
->`alert('response')`
+
+```
+{
+  if(var) {
+  response = 'output'}`
+  alert('response')`
+}
+```
+
 - Check user input for valid input, if not valid resend to prompt
 
 Don't forget to invoke function. 
