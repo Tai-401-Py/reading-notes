@@ -1,19 +1,21 @@
 # Reading Notes
 
+This is where all my notes go, ToC is update as readings continue
+
 ## Table of Contents 
 
 ## Code 201: Foundations of Software development
 
 1. [reading01.md](Reading01)
-2. 
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+2. [reading02.md](Reading02)
+3. [reading03.md](Reading03)
+4. [reading04.md](Reading04)
+5. [reading05.md](Reading05)
+6. [reading06.md](Reading06)
+7. [reading07.md](Reading07)
+8. [reading08.md](Reading08)
+9. [reading09.md](Reading09)
+10. [reading10.md](Reading10)
 
 ## Code 102: Intro to Software Development
 
