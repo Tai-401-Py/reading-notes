@@ -6,21 +6,21 @@ This is where all my notes go, ToC is update as readings continue
 
 ## Code 201: Foundations of Software development
 
-1. [./201/Reading01.md](Reading01)
-2. [./201/Reading02.md](Reading02)
-3. [./201/Reading03.md](Reading03)
-4. [./201/Reading04.md](Reading04)
-5. [./201/Reading05.md](Reading05)
-6. [./201/Reading06.md](Reading06)
-7. [./201/Reading07.md](Reading07)
-8. [./201/Reading08.md](Reading08)
-9. [./201/Reading09.md](Reading09)
-10. [./201/Reading10.md](Reading10)
-11. [./201/Reading11.md](Reading11)
-12. [./201/Reading12.md](Reading12)
-13. [./201/Reading13.md](Reading13)
-14. [./201/Reading14.md](Reading14)
-15. [./201/Reading15.md](Reading15)
+1. [201/Reading01.md](Reading01)
+2. [201/Reading02.md](Reading02)
+3. [201/Reading03.md](Reading03)
+4. [201/Reading04.md](Reading04)
+5. [201/Reading05.md](Reading05)
+6. [201/Reading06.md](Reading06)
+7. [201/Reading07.md](Reading07)
+8. [201/Reading08.md](Reading08)
+9. [201/Reading09.md](Reading09)
+10. [201/Reading10.md](Reading10)
+11. [201/Reading11.md](Reading11)
+12. [201/Reading12.md](Reading12)
+13. [201/Reading13.md](Reading13)
+14. [201/Reading14.md](Reading14)
+15. [201/Reading15.md](Reading15)
 
 ## Code 102: Intro to Software Development
 
