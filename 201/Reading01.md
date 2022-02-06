@@ -64,8 +64,28 @@ Because of several different itterations of HTML every webpage should start with
 
 Adding comments to HTML can be done with `<!--comment text-->`. This content will not be displayed to the viewer, they are important because when you come back to review the code later you will be able to better understand what you did. It is also helpful if someone else ever needs to look at it. 
 
-Comments are often used on a  long page to indicate where certain sections start and stop. 
+Comments are often used on a  long page to indicate where certain sections start and stop. they are also useful for commenting out certain sections of code. 
 
+**id** attributes are very helpful in identifying and styling specific sections of code. 
+
+- Used to help identify and style an element differently than other content
+- They can be used in JavaScript to interact with specific elements. 
+- Are a global attribute and can be used on any element
+
+
+**class** attribute can be added like the **id** attribute, to any element. 
+
+- Should be used to group similar content
+
+
+**block elements** will always appear to start a new line in the browser window
+
+**inline elements** will always appear to continue using the same line as thier neigboring elements.
+
+`<div` Elements allow you to group a set of elements together in one block-level block
+
+- Often paired with the **id** attribute for styling
+- Can make it easire to navigate codes
 
 ### HTML 5 Layout
 
