@@ -48,9 +48,24 @@ Many web pages are set up to act like documents you would normally encounter in 
     - **Attributes** provide informationcabout the content of the tag. [^2]
       - Appear on the opening tag and consist of a *name* and a *value* seperated by an `=` sign  
 
+- Coding in a content management system [^3]
+  - Working within a larger hosting site, such as a blog or e-commerce site, even social media. You use content managment systems.
+  - Useful to keep content consistant across numerous page with many users.
+  - Has an advantage that even users without HTML knowledge can create content online.
+  - Some allow more advanced users to alter templates.
 
+NOTE: You can use a view source command by right clicking on most web pages to view content and code.
 
 ### Extra Markup
+
+---
+
+Because of several different itterations of HTML every webpage should start with a `<!DOCTYPE ()>` declaration to tell the browser which version to use.
+
+Adding comments to HTML can be done with `<!--comment text-->`. This content will not be displayed to the viewer, they are important because when you come back to review the code later you will be able to better understand what you did. It is also helpful if someone else ever needs to look at it. 
+
+Comments are often used on a  long page to indicate where certain sections start and stop. 
+
 
 ### HTML 5 Layout
 
@@ -58,3 +73,4 @@ Many web pages are set up to act like documents you would normally encounter in 
 
 [^1]: Flash is an outdated program that has since been discontinued from modern use. Some older sites may still use it, though older browsers are needed to read as most modern browsers will not display flash programs due to security risks. 
 [^2]: HTML5 allows you to use uppercase attribute names and leave off quotation marks but is not reccomended. It is best practice to use all lowercase and always put value in quotes.
+[^3]: Personal note - Content management system is a cool idea and would like to know more about creation of one.
