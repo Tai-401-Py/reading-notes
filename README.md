@@ -1,10 +1,15 @@
+
 # Reading Notes
 
-This is where all my notes go, ToC is update as readings continue
+---
 
-## Table of Contents 
+>Hello and welcome to my note pages. You have reached the front page. Please feel free to use this resource as needed. 
 
-## Code 201: Foundations of Software development
+This is where all my notes go, ToC is updated as readings continue.
+
+## Table of Contents
+
+## Code 201: Foundations of Software development - Reading Notes
 
 1. [Reading01](201/Reading01.md)
 2. [Reading02](201/Reading02.md)
