@@ -273,7 +273,21 @@ Computers think programatically they follow instructions one after another so yo
 
 Flowcharts can be helpful in defining and designing a script.
 
+### Writing scripts for webpage
 
+---
+
+How HTML, CSS, and JS fit 
+
+- HTML - Content
+- CSS - Presentation
+- JS - Behaviour Layer
+
+Linking to a JS file
+
+`<script src="././file.js>` - Altering "." for file directory starting with parent directory of the HTML file calling for the JS.
+
+Note: JS is run wherever it is found in the HTML. When the browser comes across `<script>` it stops to load it then checks to see if it needs to do anything else. 
 
 [^1]: Flash is an outdated program that has since been discontinued from modern use. Some older sites may still use it, though older browsers are needed to read as most modern browsers will not display flash programs due to security risks. 
 [^2]: HTML5 allows you to use uppercase attribute names and leave off quotation marks but is not reccomended. It is best practice to use all lowercase and always put value in quotes.
