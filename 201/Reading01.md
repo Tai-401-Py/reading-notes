@@ -171,7 +171,7 @@ Escape Characters are used to replace some of the reserved characters by HTML co
 
 `<a>` element
 
-- now can be used with a closing tag to turn an entire block-level element into a link. [^5]
+- now can be used with a closing tag to turn an entire block-level element into a link.[^5]
 
 Helping older browsers understand
 
@@ -298,4 +298,4 @@ Note: JS is run wherever it is found in the HTML. When the browser comes across 
 [^2]: HTML5 allows you to use uppercase attribute names and leave off quotation marks but is not reccomended. It is best practice to use all lowercase and always put value in quotes.
 [^3]: Personal note - Content management system is a cool idea and would like to know more about creation of one.
 [^4]: In practice no longer has any effect on how your site is indexed
-[^5] Not really new but was seen as improper usage in previous versions of HTML.
+[^5]: Not really new but was seen as improper usage in previous versions of HTML.
