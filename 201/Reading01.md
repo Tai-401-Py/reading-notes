@@ -82,10 +82,48 @@ Comments are often used on a  long page to indicate where certain sections start
 
 **inline elements** will always appear to continue using the same line as thier neigboring elements.
 
-`<div` Elements allow you to group a set of elements together in one block-level block
+`<div>` Elements allow you to group a set of elements together in one block-level block
 
 - Often paired with the **id** attribute for styling
 - Can make it easire to navigate codes
+
+`<span>` Elements are an inline equivalent of a `<div>` element.
+
+- Contain a section of text where no other suitable element to differentiate from surrounding text
+- Used to contain inline elements
+- Used to finely control styling of inline elements
+
+`<iframe>` element is like a little cutout window that can be used to view another webpage. 
+
+- Short for "inline frame"
+- must have **src, height, width** attributes
+- Other attributes of an `<iframe>`
+  - **scrolling** - not supported in HTML5
+    - 3 values  **yes, no, auto**
+  - **frameborder**
+    - uses binary values **1 yes, 0 no**
+  - **seamless**
+
+`<meta>` elements live in the `<head>` element
+
+- Contain info about webpage
+- Fulfills a number of purposes
+  - Telling search engines about page
+  - Who created the page
+  - Can also be used to make a page expire after a certain time
+- attributes of a `<meta>` element
+  - description : usually about a max of 155 char. Displayed in search engine results
+  - keywords: used for indexing by search engines [^4]
+  - robots: indicate yes or no for search engines to add. 
+    - noindex to keep site off of search engines
+    - nofollow can be used to add page but no linked pages
+- http-equiv is also used in pairs with the following
+  - author: defines author
+  - pragma: prevents browser caching
+  - expires: used to indicate when the page should expire note date must be specified as ex. below
+    - "Fri. 04 Apr 2014 23:59:59 GMT"
+
+Escape Characters are used to replace some of the reserved characters by HTML code such as the angled brackets.
 
 ### HTML 5 Layout
 
@@ -94,3 +132,4 @@ Comments are often used on a  long page to indicate where certain sections start
 [^1]: Flash is an outdated program that has since been discontinued from modern use. Some older sites may still use it, though older browsers are needed to read as most modern browsers will not display flash programs due to security risks. 
 [^2]: HTML5 allows you to use uppercase attribute names and leave off quotation marks but is not reccomended. It is best practice to use all lowercase and always put value in quotes.
 [^3]: Personal note - Content management system is a cool idea and would like to know more about creation of one.
+[^4]: In practice no longer has any effect on how your site is indexed
