@@ -235,6 +235,46 @@ Site mapping
     - Should be interactive
     - Should be consistent across all pages
 
+## JavaScript
+
+---
+
+JavaScript is used to make pages more interactive and accessible.
+
+- Access content on page
+- Modify the content of a page
+- Program rules or instructions the browser can follow
+- React to events triggered by user
+
+### What is a script and how do I create one?
+
+---
+
+A script is a series of instructions that computer follows to achieve a goal.
+
+To write a script you first need to state your goal then list the tasks that need to be accomplished to acheive it. Every goal is just a larger one that needs to be broken down into smaller ones to achieve it. 
+
+Writing a script is like writing a manual on how to do basic things one step at a time. Computers do not reactively learn, and can only do as thier told so must be given detailed enough instructions on how to perform the task correctly as if it was thier first time, every time.
+
+1. Design your goal
+
+  - Define the task you want to accomplish
+
+2. Design the script
+
+  - Split the goal intp a series of tasks
+  - Write down individual steps to complete each task
+
+3. Code Each Step
+
+  - Write the instructions in a language the computer will understand
+
+Computers think programatically they follow instructions one after another so you must think as such in order to acheive your goal. 
+
+Flowcharts can be helpful in defining and designing a script.
+
+
+
 [^1]: Flash is an outdated program that has since been discontinued from modern use. Some older sites may still use it, though older browsers are needed to read as most modern browsers will not display flash programs due to security risks. 
 [^2]: HTML5 allows you to use uppercase attribute names and leave off quotation marks but is not reccomended. It is best practice to use all lowercase and always put value in quotes.
 [^3]: Personal note - Content management system is a cool idea and would like to know more about creation of one.
