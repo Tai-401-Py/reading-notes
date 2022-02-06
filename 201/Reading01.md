@@ -1,5 +1,5 @@
 
-# INTRODUCTORY HTML AND JAVASCRIPT
+# INTRODUCTORY HTML AND JAVASCRIPT [^0]
 
 ---
 
@@ -280,8 +280,11 @@ Flowcharts can be helpful in defining and designing a script.
 How HTML, CSS, and JS fit 
 
 - HTML - Content
+  - What is the site about
 - CSS - Presentation
+  - HOw do I want the site to look
 - JS - Behaviour Layer
+  - What do I wnt the site to do
 
 Linking to a JS file
 
@@ -289,6 +292,8 @@ Linking to a JS file
 
 Note: JS is run wherever it is found in the HTML. When the browser comes across `<script>` it stops to load it then checks to see if it needs to do anything else. 
 
+
+[^0]: All information summarized or paraphrased from "HTML & CSS" and "JavaScript & JQuery" by Jon Duckett, and only serves as personal notes for the purpose of learning.
 [^1]: Flash is an outdated program that has since been discontinued from modern use. Some older sites may still use it, though older browsers are needed to read as most modern browsers will not display flash programs due to security risks. 
 [^2]: HTML5 allows you to use uppercase attribute names and leave off quotation marks but is not reccomended. It is best practice to use all lowercase and always put value in quotes.
 [^3]: Personal note - Content management system is a cool idea and would like to know more about creation of one.
