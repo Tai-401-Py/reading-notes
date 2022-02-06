@@ -48,6 +48,8 @@ Many web pages are set up to act like documents you would normally encounter in 
     - **Attributes** provide informationcabout the content of the tag. [^2]
       - Appear on the opening tag and consist of a *name* and a *value* seperated by an `=` sign  
 
+
+
 ### Extra Markup
 
 ### HTML 5 Layout
