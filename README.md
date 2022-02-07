@@ -11,21 +11,21 @@ This is where all my notes go, ToC is updated as readings continue.
 
 ## Code 201: Foundations of Software development - Reading Notes
 
-1. [Reading01](201/Reading01.md)
-2. [Reading02](201/Reading02.md)
-3. [Reading03](201/Reading03.md)
-4. [Reading04](201/Reading04.md)
-5. [Reading05](201/Reading05.md)
-6. [Reading06](201/Reading06.md)
-7. [Reading07](201/Reading07.md)
-8. [Reading08](201/Reading08.md)
-9. [Reading09](201/Reading09.md)
-10. [Reading10](201/Reading10.md)
-11. [Reading11](201/Reading11.md)
-12. [Reading12](201/Reading12.md)
-13. [Reading13](201/Reading13.md)
-14. [Reading14](201/Reading14.md)
-15. [Reading15](201/Reading015.md)
+1. [Introductory HTML and JavaScript](201/class-01.md)
+2. [Basics of HTML, CSS, and JavaScript](201/class-02.md)
+3. [Reading03](201/class-03.md)
+4. [Reading04](201/class-04.md)
+5. [Reading05](201/class-05.md)
+6. [Reading06](201/class-06.md)
+7. [Reading07](201/class-07.md)
+8. [Reading08](201/class-08.md)
+9. [Reading09](201/class-09.md)
+10. [Reading10](201/class-10.md)
+11. [Reading11](201/class-11.md)
+12. [Reading12](201/class-12.md)
+13. [Reading13](201/class-13.md)
+14. [Reading14](201/class-14.md)
+15. [Reading15](201/class-15.md)
 
 
 ## Code 102: Intro to Software Development
