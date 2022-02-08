@@ -159,5 +159,35 @@ el.textContent = meat[1];
 
 - Expressions rely on operators
   - For sample operators please see [102 Reflection and Discussion 8](../ReflectionandDiscussion08.md)
+    - Note that operators can use multiple operandums
+    `let value = (x + y) > (q + j);`
 
-  
+Loops
+
+---
+
+One of the main building blocks of code. 
+
+`while` while function runs while  statement is true and continues till it's false.
+
+A for loop 
+
+- we set iteration count
+
+`for( i=0; i > 10; i++){}`
+
+|'i=0'|'i>10'|'i++'|
+|---|---|---|
+|initialization|condition|update|
+|initial expression|condition expression|increment expression|
+
+Avoid infinite loops, conditions must always eventually become false.
+
+
+if statements check to see if boolean true/false and then run accordingly if boolean true.
+
+```js
+  if (x > y) {
+    execute_function()
+  }
+```
