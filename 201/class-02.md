@@ -191,3 +191,23 @@ if statements check to see if boolean true/false and then run accordingly if boo
     execute_function()
   }
 ```
+
+if...else statements run first block if boolean true, and run second block if first block boolean false.
+
+```js
+  if (x > y) {
+    execute_function()
+  } else {
+    other_function()
+  }
+```
+
+Switch functions operate with a variable called a switch value
+
+- Entire statment lives in one code block.
+- at the end of each case is a `break;` command to tell the switch it's finished running it's portion.
+- provides a default option if none ring true. 
+
+Type Coercion & Weak Typing
+
+JS converts data behind the curtain and this is called **type coercion** for example a string such as `'1'` could be converted to a number if it is being compared with a number data type. 
