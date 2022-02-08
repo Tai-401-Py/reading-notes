@@ -18,6 +18,7 @@ Typically
 Types of operators
 
 - Assignment operator
+  - =
 - Comparison operator
   - != : inequality operator
   - !== : strict not equal
