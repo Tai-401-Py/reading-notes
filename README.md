@@ -14,7 +14,7 @@ This is where all my notes go, ToC is updated as readings continue.
 1. [Introductory HTML and JavaScript](201/class-01.md)
 2. [Basics of HTML, CSS, and JavaScript](201/class-02.md)
 3. [HTML Lists, Control Flow with JS, and the CSS Box Model](201/class-03.md)
-4. [Reading04](201/class-04.md)
+4. [HTML Links, JS Functions, and, Intro to CSS Layout.](201/class-04.md)
 5. [Reading05](201/class-05.md)
 6. [Reading06](201/class-06.md)
 7. [Reading07](201/class-07.md)
