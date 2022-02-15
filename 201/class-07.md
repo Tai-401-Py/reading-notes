@@ -20,7 +20,7 @@ prototyping allows you to create new keys and values for objects
   - `<td>` - creates a new data poin in a new column
 - spanning
   - `colspan = "#"`
-  - `rowspan - "#
+  - `rowspan - "#"`
 - long tables
   - `<thead>` - heading
   - `<tbody>` - body  
