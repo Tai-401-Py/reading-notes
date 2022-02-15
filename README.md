@@ -17,7 +17,7 @@ This is where all my notes go, ToC is updated as readings continue.
 4. [HTML Links, JS Functions, and, Intro to CSS Layout.](201/class-04.md)
 5. [HTML Images, CSS Colors and Text](201/class-05.md)
 6. [The DOM (Document Object Model and how to Affect)](201/class-06.md)
-7. [Reading07](201/class-07.md)
+7. [Object-Oriented Programming, HTML Tables](201/class-07.md)
 8. [Reading08](201/class-08.md)
 9. [Reading09](201/class-09.md)
 10. [Reading10](201/class-10.md)
