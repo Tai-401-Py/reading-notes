@@ -20,7 +20,7 @@ This is where all my notes go, ToC is updated as readings continue.
 7. [Object-Oriented Programming, HTML Tables](201/class-07.md)
 8. [Layout: the Beautifying](201/class-08.md)
 9. [Forms and handling events](201/class-09.md)
-10. [Reading10](201/class-10.md)
+10. [Handling Errors](201/class-10.md)
 11. [Reading11](201/class-11.md)
 12. [Reading12](201/class-12.md)
 13. [Reading13](201/class-13.md)
