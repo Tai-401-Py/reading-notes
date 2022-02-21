@@ -17,7 +17,7 @@ Nested functions can call variables from functions they are nested in, but can n
 - Reference Error - Typically a missing variable, or an undefined function.
 - URI Error - Characters not escaped.
 - Type Error 
-  - Incoreect Casing
+  - Incorect Casing
   - Method doesn't exist (function doesn't exist)
   - Dom Node Doesn't Exist
 - Range Error
