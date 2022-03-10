@@ -9,6 +9,9 @@ This is where all my notes go, ToC is updated as readings continue.
 
 ## Table of Contents
 
+## Code 301: Intermediate Software Development
+
+
 ## Code 201: Foundations of Software development - Reading Notes
 
 1. [Introductory HTML and JavaScript](201/class-01.md)
