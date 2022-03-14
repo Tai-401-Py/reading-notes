@@ -50,13 +50,16 @@
 - What is the flow of props?
   - One way from parent to child
 
-  
-
 ---
 
 ## Things I want to know more about
 
-
 ---
 
-- 
+How do you implement Component based architecture. 
+
+What does Componenet based arcitecture look like. 
+
+How do you get componenet to talk to each other if they were developed by different groups. 
+
+Are there incompatable Components that do not interface with each other even if they fill completely seperate roles and are writtin in the same language?
