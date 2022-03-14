@@ -13,6 +13,9 @@ This is where all my notes go, ToC is updated as readings continue.
 
 ---
 
+1. [Readings: Introduction to React and Components](./301/reflectionanddiscussion01.md)
+
+---
 
 ## Code 201: Foundations of Software development
 
