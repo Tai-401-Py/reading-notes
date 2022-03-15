@@ -13,7 +13,8 @@ This is where all my notes go, ToC is updated as readings continue.
 
 ---
 
-1. [Readings: Introduction to React and Components](./301/reflectionanddiscussion01.md)
+1. [Readings: Introduction to React and Components](./301/reading01.md)
+2. [Life cycle of React](./301/reading02.md)
 
 ---
 
