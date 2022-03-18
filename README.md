@@ -17,7 +17,7 @@ This is where all my notes go, ToC is updated as readings continue.
 2. [Life cycle of React](./301/reading02.md)
 3. [Passing Functions as Props](./301/reading03.md)
 4. [React and Forms](./301/reading04.md)
-5. [Higer Functions and React](./301/reading.md)
+5. [Higer Functions and React](./301/reading05.md)
 
 ---
 
