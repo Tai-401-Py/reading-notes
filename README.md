@@ -44,7 +44,6 @@ This is where all my notes go, ToC is updated as readings continue.
 14. [Teams, animations, and transitions](201/class-14.md)
 15. [Reading15](201/class-15.md)
 
-
 ## Code 102: Intro to Software Development
 
 ---
