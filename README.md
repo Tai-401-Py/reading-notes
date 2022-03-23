@@ -19,8 +19,8 @@ This is where all my notes go, ToC is updated as readings continue.
 4. [React and Forms](./301/reading04.md)
 5. [Higer Functions and React](./301/reading05.md)
 6. [Node.js and Paired Programming](./301/reading06.md)
-7. [REST](.301/reading07.md)
-8. [REST 2.0](.301/reading08.md)
+7. [REST](./301/reading07.md)
+8. [REST 2.0](./301/reading08.md)
 
 ---
 
