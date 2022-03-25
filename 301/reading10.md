@@ -1,7 +1,7 @@
 
 # In memory storage
 
-    [Understanding the JavaScript Call Stack](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
+[Understanding the JavaScript Call Stack](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
 
     What is a ‘call’?
 
@@ -30,7 +30,7 @@ These will execute from 3->2->1> due to FILO
 Recursive fucntions that call themselves woithout end and create loops. 
 
 
-    [JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
+[JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
 
 
 
