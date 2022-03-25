@@ -22,6 +22,7 @@ This is where all my notes go, ToC is updated as readings continue.
 7. [REST](./301/reading07.md)
 8. [REST 2.0](./301/reading08.md)
 9. [Functional Programming](./301/reading09.md)
+10. [In Mem storage](./301/reading10.md)
 
 ---
 
