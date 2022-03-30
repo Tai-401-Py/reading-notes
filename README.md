@@ -25,6 +25,8 @@ This is where all my notes go, ToC is updated as readings continue.
 10. [In Mem storage](./301/reading10.md)
 11. [SQL vs noSQL](./301/reading11.md)
 12. [CRUD](./301/reading12.md)
+13. [More CRUD](./301/reading13.md)
+
 ---
 
 ## Code 201: Foundations of Software development
