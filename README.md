@@ -26,6 +26,7 @@ This is where all my notes go, ToC is updated as readings continue.
 11. [SQL vs noSQL](./301/reading11.md)
 12. [CRUD](./301/reading12.md)
 13. [More CRUD](./301/reading13.md)
+14. [Diversity and Inclusion](./301/reading14.md)
 
 ---
 
