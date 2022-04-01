@@ -27,6 +27,7 @@ This is where all my notes go, ToC is updated as readings continue.
 12. [CRUD](./301/reading12.md)
 13. [More CRUD](./301/reading13.md)
 14. [Diversity and Inclusion](./301/reading14.md)
+15. [Auth0](./301/reading15.md)
 
 ---
 
