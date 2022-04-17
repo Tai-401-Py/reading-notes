@@ -275,6 +275,14 @@ Most functions take arguments and you can use multiple arguments in a function s
 
 These arguments can also be used as variables.
 
+Python also allows varying number of arguments using `*args` in a function `function(a,b, *args)`
+
+You can also assign default values by stating `function(a, b="3")` in this case b will be 3 if nothing else is passed to it. 
+
+`**kwargs` (standing for keyword arguments) allows you to handle named arguments that you have not defined in advance.
+
+The keyword arguments return a dictionary in which the keys are the argument names, and the values are the argument values. 
+
 ### returniung from functions
 
 Return statements can not be used outside of a function definition
@@ -684,4 +692,26 @@ These methods include `.group` which returns the string matched, `.start` and `.
 
 One of the most important re methods that use regular expressions is sub.
 
-Syntax: `re.sub(pattern, repl, string, count=0)`
+Syntax: `re.sub(pattern, replacement, string, count=0)`
+
+This method replaces all occurrences of the pattern in string with repl, substituting all occurrences, unless count provided. This method returns the modified string. 
+
+### Metacharacters
+
+Metacharacters are what make regular expressions more powerful than normal string methods.
+
+They allow you to create regular expressions to represent concepts like "one or more repetitions of a vowel".
+
+The existence of metacharacters poses a problem if you want to create a regular expression (or regex) that matches a literal metacharacter, such as "$". You can do this by escaping the metacharacters by putting a backslash in front of them.
+
+However, this can cause problems, since backslashes also have an escaping function in normal Python strings. This can mean putting three or four backslashes in a row to do all the escaping. 
+
+**To avoid this, you can use a raw string, which is a normal string with an "r" in front of it.**
+
+Character classes provide a way to match only one of a specific set of characters.
+
+A character class is created by putting the characters it matches inside square brackets. 
+
+- `*` matches 0 or more occurrences of the preceding expression.
+- `+` matches 1 or more occurrence of the preceding expression
+- `{curly braces}` mean more than one repetition "9{1,3}$" matches string that have 1 to 3 nines.
