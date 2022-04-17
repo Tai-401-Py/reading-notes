@@ -265,4 +265,221 @@ Any statement that consists of a word followed by information in parens is a fun
 
 ### Functions
 
-You can creat ylour own functions using the `def` statement
+You can creat your own functions using the `def` statement
+
+you must define them vbefore they are called
+
+### Arguments
+
+Most functions take arguments and you can use multiple arguments in a function seperated by a comma `function(a,b,c)`
+
+These arguments can also be used as variables. 
+
+### returniung from functions 
+
+Return statements can not be used outside of a function definition
+
+They will also stop a function at the return.
+
+### Comments 
+
+```py
+
+# Will comment out code
+
+def docstring()
+"""
+This is a Docstring and they are put below a functions first line to explain the function
+"""
+
+```
+
+### Modules
+
+Modules are peices of code that other people have written to fulfil common tasks such as generating random numbers. 
+
+```py
+
+import module_name
+
+# then use module_name.var() to acess it's functions
+
+from module_name import sub_module
+
+# this will allow you to import only a particular function from a module
+
+from module_name import sub_module as new_name
+
+# You can rename modules this is helpful if the module has a long or confusing name. 
+
+```
+
+### PY libraries
+Many third-party Python modules are stored on the Python Package Index (PyPI).
+The best way to install these is using a program called pip. This comes installed by default with modern distributions of Python. If you don't have it, it is easy to install online. Once you have it, installing libraries from PyPI is easy. Look up the name of the library you want to install, go to the command line (for Windows it will be the Command Prompt), and enter pip install library_name. Once you've done this, import the library and use it in your code.
+
+Using pip is the standard way of installing libraries on most operating systems, but some libraries have prebuilt binaries for Windows. These are normal executable files that let you install libraries with a GUI the same way you would install other programs. 
+
+### Exceptions
+
+Similar to try/catch in Javascript ||  Python has try/except
+
+An except statement without any exceptions wil lcatch all errors (Use sparingly)
+
+There is also finally, which will run code regardless. 
+
+You can raise exceptions using `raise` statement
+
+### Assertions
+
+An assertion is a sanity-check that you can turn on or turn off when you have finished testing the program.
+
+An expression is tested, and if the result comes up false, an exception is raised.
+
+Assertions are carried out through use of the assert statement.
+
+```py
+# The assert can take a second argument that is passed to the AssertionError raised if the assertion fails. 
+
+assert (temp >=0), "colder than zero"
+
+```
+
+### Opening Files
+
+```py
+#py can be used to read and write file contents. Text files are easiset to manipulate
+#you can use [r,w,a] read,write,append and then there is [b] which is binary mode which is used for audio and images
+myfile = open("filename.txt", "r") #read access to filename.txt
+
+#Be sure to close a file when you are done with it. 
+myfile.close()
+
+#.read can be used to read a file
+
+
+```
+
+### Sets
+
+Sets can be combined using mathematical operations.
+
+The union operator | combines two sets to form a new one containing items in either.
+
+The intersection operator & gets items only in both.
+
+The difference operator - gets items in the first set but not in the second.
+
+The symmetric difference operator ^ gets items in either set, but not both. 
+
+Sets do not allow duplicate entries
+
+### Data Structures
+
+Python supports the following data structures: lists, dictionaries, tuples, sets.
+
+When to use a dictionary:
+- When you need a logical association between a key:value pair.
+- When you need fast lookup for your data, based on a custom key.
+- When your data is being constantly modified. Remember, dictionaries are mutable.
+
+When to use the other types:
+- Use lists if you have a collection of data that does not need random access. Try to choose lists when you need a simple, iterable collection that is modified frequently.
+- Use a set if you need uniqueness for the elements.
+- Use tuples when your data cannot change. 
+
+### itertools
+
+The module itertools is a standard library that contains several functions that are useful in functional programming.
+One type of function it produces is infinite iterators.
+The function count counts up infinitely from a value.
+The function cycle infinitely iterates through an iterable (for instance a list or string).
+The function repeat repeats an object, either infinitely or a specific number of times.
+Example:
+
+```py
+from itertool import count as cnt
+
+for i in cnt(3):
+  print(i)
+```
+
+  There are many functions in itertools that operate on iterables, in a similar way to map and filter.
+Some examples:
+
+takewhile - takes items from an iterable while a predicate function remains true;
+
+chain - combines several iterables into one long one;
+
+accumulate - returns a running total of values in an iterable. 
+
+There are also several combinatoric functions in itertool, such as product and permutation.
+These are used when you want to accomplish a task with all possible combinations of some items. 
+
+
+### Classes
+
+
+We have previously looked at two paradigms of programming - imperative (using statements, loops, and functions as subroutines), and functional (using pure functions, higher-order functions, and recursion).
+
+Another very popular paradigm is object-oriented programming (OOP).
+Objects are created using classes, which are actually the focal point of OOP.
+The class describes what the object will be, but is separate from the object itself. In other words, a class can be described as an object's blueprint, description, or definition.
+You can use the same class as a blueprint for creating multiple different objects.
+
+Classes are created using the keyword class and an indented block, which contains class methods (which are functions).
+
+The `__init__` method is the most important method in a class.
+This is called when an instance (object) of the class is created, using the class name as a function.
+
+All methods must have self as their first parameter, although it isn't explicitly passed, Python adds the self argument to the list for you; you do not need to include it when you call the methods. Within a method definition, self refers to the instance calling the method.
+
+Instances of a class have attributes, which are pieces of data associated with them. 
+
+```py
+class Dog:
+  def __init__(self, color, name)
+    self.color = color
+    self.name = name
+
+
+#Classes can have other methods defined to add functionality to them.
+#Remember, that all methods must have self as their first parameter.
+#These methods are accessed using the same dot syntax as attributes.
+#Example:
+  def bork(self):
+    print("bork bork!")
+
+baxter = Dog('White', 'baxter')
+baxter.bork()
+
+```
+
+Classes can also have class attributes, created by assigning variables within the body of the class. These can be accessed either from instances of the class, or the class itself. 
+
+### Class Inheritance 
+
+Inheritance provides a way to share functionality between classes.
+
+Imagine several classes, Cat, Dog, Rabbit and so on. Although they may differ in some ways (only Dog might have the method bark), they are likely to be similar in others (all having the attributes color and name).
+
+This similarity can be expressed by making them all inherit from a superclass Animal, which contains the shared functionality.
+
+To inherit a class from another class, put the superclass name in parentheses after the class name. 
+
+```py
+#in this instance Animal is the superclass of dog
+
+class Dog(Animal):
+
+# Inheritance can be indirect, in this case puppy inherits dog which also inherits animal, so puppoy inherits animal as well. 
+class Puppy(Dog):
+```
+
+The function `super` is a useful inheritance-related function that refers to the parent class. It can be used to find the method with a certain name in an object's superclass. 
+
+```py
+class Puppy(Dog):
+  super().bork()
+
+```
