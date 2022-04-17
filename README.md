@@ -12,7 +12,7 @@ This is where all my notes go, ToC is updated as readings continue.
 ## Code 401: Advanced Software Development Python
 
 0. [Intro to Python](./401/reading00.md)|[SQL](./401/sql.md)|[CMD Line](./401/cmd.md)
-1. [](./401/reading01.md)
+1. [Welcome to 401](./401/reading01.md)
 
 ## Code 301: Intermediate Software Development
 
