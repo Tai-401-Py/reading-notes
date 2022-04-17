@@ -9,6 +9,11 @@ This is where all my notes go, ToC is updated as readings continue.
 
 ## Table of Contents
 
+## Code 401: Advanced Software Development Python
+
+0. [Intro to Python](./401/reading00.md)
+1. []
+
 ## Code 301: Intermediate Software Development
 
 ---

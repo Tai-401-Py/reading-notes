@@ -241,6 +241,28 @@ print(len(nums)) # 3 (That's how many items)
 used to iterate over a given sequence, such as lists or strings. 
 
 ```py
-
+words = ['spam', 'egg', 'potato']
+for word in words:
+  print(word + '!') #['spam!', 'egg!', 'potato!']
 
 ```
+
+### Range
+
+`range()` function returns a sequence of numbers, by default it starts from 0, and increments by 1 and stops **before the specified number**
+
+if we want to output the range as a list then we need to use the `list()` function
+
+Range if called with one argument produces values from 0 to that argument, if given 2 arguments will produce values from the first to the seconda rgument. 
+
+A third argument will be called a step and `range()` will increment by it. You can also decrement with a -number.
+
+### Code Reuse
+
+DRY code (Don't Repeat Yourself), WET (Write Everything Twice). We like Dry code. 
+
+Any statement that consists of a word followed by information in parens is a function call. The words in front of the parens are function names, and the values in parent sepearated by commas are arguments
+
+### Functions
+
+You can creat ylour own functions using the `def` statement
