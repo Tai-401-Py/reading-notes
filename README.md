@@ -14,6 +14,7 @@ This is where all my notes go, ToC is updated as readings continue.
 0. [Intro to Python](./401/reading00.md)|[SQL](./401/sql.md)|[CMD Line](./401/cmd.md)
 1. [Welcome to 401](./401/reading01.md)
 2. [TESTS AND MODULES](./401/reading02.md)
+3. [Reading and Writing](./401/reading03.md)
 
 ## Code 301: Intermediate Software Development
 
