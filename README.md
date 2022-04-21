@@ -15,6 +15,7 @@ This is where all my notes go, ToC is updated as readings continue.
 1. [Welcome to 401](./401/reading01.md)
 2. [TESTS AND MODULES](./401/reading02.md)
 3. [Reading and Writing](./401/reading03.md)
+3. [Classes, Objects, Recursion](./401/reading04.md)
 
 ## Code 301: Intermediate Software Development
 
