@@ -16,7 +16,7 @@ This is where all my notes go, ToC is updated as readings continue.
 2. [TESTS AND MODULES](./401/reading02.md)
 3. [Reading and Writing](./401/reading03.md)
 3. [Classes, Objects, Recursion](./401/reading04.md)
-
+4. [Testin, Coverage and Analysis](./401/reading06.md)
 ## Code 301: Intermediate Software Development
 
 ---
