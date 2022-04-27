@@ -18,6 +18,8 @@ This is where all my notes go, ToC is updated as readings continue.
 3. [Classes, Objects, Recursion](./401/reading04.md)
 4. [Testin, Coverage and Analysis](./401/reading06.md)
 5. [360 Know Python Scope!](./401/reading07.md)
+6. [List Comrehension](./401/reading08.md)
+
 ## Code 301: Intermediate Software Development
 
 ---
