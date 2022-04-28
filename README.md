@@ -15,10 +15,11 @@ This is where all my notes go, ToC is updated as readings continue.
 1. [Welcome to 401](./401/reading01.md)
 2. [TESTS AND MODULES](./401/reading02.md)
 3. [Reading and Writing](./401/reading03.md)
-3. [Classes, Objects, Recursion](./401/reading04.md)
-4. [Testin, Coverage and Analysis](./401/reading06.md)
-5. [360 Know Python Scope!](./401/reading07.md)
-6. [List Comrehension](./401/reading08.md)
+4. [Classes, Objects, Recursion](./401/reading04.md)
+5. [Testin, Coverage and Analysis](./401/reading06.md)
+6. [360 Know Python Scope!](./401/reading07.md)
+7. [List Comrehension](./401/reading08.md)
+8. [Stats, Probablitly and the Dunder of it all](./401/reading09.md)
 
 ## Code 301: Intermediate Software Development
 
