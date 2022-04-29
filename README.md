@@ -20,6 +20,7 @@ This is where all my notes go, ToC is updated as readings continue.
 6. [360 Know Python Scope!](./401/reading07.md)
 7. [List Comrehension](./401/reading08.md)
 8. [Stats, Probablitly and the Dunder of it all](./401/reading09.md)
+9. [Stacks and Queues](./401/reading10.md)
 
 ## Code 301: Intermediate Software Development
 
