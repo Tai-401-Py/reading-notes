@@ -1,6 +1,6 @@
 # Jyupiter and Numpy
 
-## jyupiter
+## Jyupiter
 
 Take so many different file formats
 
