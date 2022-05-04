@@ -24,6 +24,7 @@ This is where all my notes go, ToC is updated as readings continue.
 10. [Numpy and Jyupiter](./401/reading11.md)
 11. [Data Analysis and display with Pandas](./401/reading12.md)
 12. [Linear Regression and Sci-kit](./401/reading13.md)
+13. [Matplotlib and it's huge library of stuff](./401/reading14.md)
 
 ## Code 301: Intermediate Software Development
 
