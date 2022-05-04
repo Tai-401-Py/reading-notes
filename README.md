@@ -22,7 +22,8 @@ This is where all my notes go, ToC is updated as readings continue.
 8. [Stats, Probablitly and the Dunder of it all](./401/reading09.md)
 9. [Stacks and Queues](./401/reading10.md)
 10. [Numpy and Jyupiter](./401/reading11.md)
-10. [Data Analysis and display with Pandas](./401/reading12.md)
+11. [Data Analysis and display with Pandas](./401/reading12.md)
+12. [Linear Regression and Sci-kit](./401/reading13.md)
 
 ## Code 301: Intermediate Software Development
 
