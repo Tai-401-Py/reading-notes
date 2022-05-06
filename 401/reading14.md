@@ -57,6 +57,7 @@ ax.spines['bottom'].set_position(('data',0))
 ax.yaxis.set_ticks_position('left')
 ax.spines['left'].set_position(('data',0))
 ```
+
 You can also add legends to the graphs
 
 ```py
