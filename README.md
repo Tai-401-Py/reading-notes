@@ -28,6 +28,7 @@ This is where all my notes go, ToC is updated as readings continue.
 14. [Trees for Days! Binary and K](./401/reading15.md)
 15. [Server-less](./401/reading16.md)
 16. [Scrape the web](./401/reading17.md)
+17. [Cryptology](./401/reading18.md)
 
 ## Code 301: Intermediate Software Development
 
