@@ -31,6 +31,7 @@ This is where all my notes go, ToC is updated as readings continue.
 17. [Cryptology](./401/reading18.md)
 18. [Regex and Automation](./401/reading19.md)
 19. [Django](./401/reading20.md)
+20. [Django2](./401/reading21.md)
 
 ## Code 301: Intermediate Software Development
 
