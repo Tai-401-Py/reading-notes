@@ -34,6 +34,7 @@ This is where all my notes go, ToC is updated as readings continue.
 20. [Django2](./401/reading21.md)
 21. [Django 3:Forms](./401/reading22.md)
 22. [Docker](./401/reading23.md) 
+23. [Ethics](./401/reading32.md)
 
 ## Code 301: Intermediate Software Development
 
