@@ -21,3 +21,14 @@ Strings can be thought of as a sequence of characters, each character of the str
 
 ---
 
+### 4.1 String Operations
+
+The `in` operator can be used to check if a string is a part of another sring. This returns a boolean response. `if x in y:`
+
+Strings can be added together (also called concatination)
+
+`print('Spam' + 'egg')` -> 'Spameggs'
+
+They can also be multiplied by integers repeating the string multiple times
+
+`print('spam' * 3)`-> spamspamspam
