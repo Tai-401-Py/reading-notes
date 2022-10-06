@@ -32,3 +32,18 @@ Strings can be added together (also called concatination)
 They can also be multiplied by integers repeating the string multiple times
 
 `print('spam' * 3)`-> spamspamspam
+
+---
+
+### 5.1 String functions
+
+Strings have many useful functions. 
+
+They are accessed through `string.function()` where `function` is one of the following.
+
+- `count(var)` returns how many times a vriable appears in a given string
+- `upper` converts to uppercase
+- `lower` converts to lowecase
+- `replace(old,new)` replaces all instances of old with new
+
+`len(string)` returns the length of the string (how many chars are in it)
