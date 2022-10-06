@@ -1,3 +1,4 @@
+
 # [Docker](https://wsvincent.com/beginners-guide-to-docker/)
 
 Docker under the hood is just Linux Containers which are a type of virtualization. 
@@ -40,4 +41,45 @@ The `Dockerfile` for our image will completely replace the the local dev environ
 # $ touch docker-compose.yml
 ```
 
+# [Django Rest Framework](https://www.django-rest-framework.org/api-guide/permissions/)
+
+Toigether with Auth and Throttling, permissions determine access. They typically ue auth info in the `request.user` and `request.auth` props. 
+
+The simplest perm are to authorize any authenticated user and deny any who aren't. Slightly less strict would allow READ ONLY permissions to unauthenticated users. This would correspond to `IsAuthenticatedOrReadOnly` Class in the REST framework.
+
+REST framework also support perms at the object level. These are used to determine if a user should be able to act upon a model insance/object.
+
+These object lebvel permissions are run when `.get_object()` is called. As with view level perms, an `exceptions.PermissionDenied` will be raised if the user is not authorized to act on the object. 
+
+If you would like to override on a generic view you need to call explicitly `.check_object_permissions(req,obj)` on the view at the point it is retrieved. 
+
+Limitations are that this prevents viewing and editing, but in order to stop creation permissions mst be enables on the `Serializer` class, or override the `perform_create()`
+
+## Setting permissions 
+
+The default may be set globally
+
+```py
+REST_FRAMEWORK = {
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.IsAuthenticated',
+    ]
+}
+```
+
+If not set, it will default to allow any. 
+
+## API Reference
+
+- AllowAny - This will allow unrestricted access regardless of authentication status.
+- IsAuthenticated will deny anyone not Authenticated
+- IsAdminUser will deny anyone who isn't an admin. 
+- IsAuthenticatedOrReadOnly - Will allow authenticate users to perform requeests but unauthenticaed can use any `GET`, `HEAD`, or `OPTIONS`.
+- DjangoModelPermissions
+  - This class ties into Django's standard `django.contrib.auth` Model Perms. This perm must only be applied to views that have a queryset prop. or `get_queryset()` method. 
+
+  
+    `POST` requests require the user to have the add permission on the model.
+    `PUT` and `PATCH` requests require the user to have the change permission on the model.
+    `DELETE` requests require the user to have the delete permission on the model.
 

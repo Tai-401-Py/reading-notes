@@ -9,6 +9,9 @@ This is where all my notes go, ToC is updated as readings continue.
 
 ## Table of Contents
 
+[Code 401: Advanced software development python](##code-401:-advanced-software-development -python)
+
+
 ## Code 401: Advanced Software Development Python
 
 0. [Intro to Python](./401/reading00.md)|[SQL](./401/sql.md)|[CMD Line](./401/cmd.md)
