@@ -9,7 +9,7 @@ This is where all my notes go, ToC is updated as readings continue.
 
 ## Table of Contents
 
-[Code 401: Advanced software development python](##code-401:-advanced-software-development -python)
+[Code 401: Advanced software development python](#code-401-advanced-software-development-python)
 
 
 ## Code 401: Advanced Software Development Python
