@@ -10,8 +10,12 @@ This is where all my notes go, ToC is updated as readings continue.
 ## Table of Contents
 
 [Code 401: Advanced software development python](#code-401-advanced-software-development-python)
+
 [Code 301: Intermediate Software Development](#code-301-intermediate-software-development)
+
 [Code 201: Foundations of Software Development](#code-201-foundations-of-software-development)
+
+[Code 102: Intro to Software Development](#code-102-intro-to-software-development)
 
 ## Code 401: Advanced Software Development Python
 
