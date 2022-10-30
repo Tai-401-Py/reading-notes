@@ -78,4 +78,27 @@ Example of clud services:
 - SaaS
   - completed product managed by service provider
 
+### AWS Cloud Use Cases
 
+Applicable in a  diverse set of industries
+
+### AWS Regions
+
+- AWS has regions around the world represented by a name us-west-1
+- They are cluster of data centers
+
+If you need to launch a new applictaion where do you deploy.
+
+- Compliance with data governance and legal requirements: Data never leaves region without your explicit permission
+- Proximity - Reduced latency for users
+- Available service within a region: New services and new features are not automatically available in every region
+- Pricing - Varies from region to region.
+
+- Availability zones
+  - Each region has many availability zones 
+    - usually 3, min 2, max 6
+  - Each one is isolated from disasters to prevent cascading faiure
+
+- AWS of points of presence
+  - has 216 points of presence
+  - Not all resources and services available in all locations
