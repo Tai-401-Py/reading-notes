@@ -44,3 +44,38 @@ Example of clud services:
   1. Azure
   2. Google Cloud
   3. AWS
+- Hybrid Cloud: Keeps some servers on premises, to keep some assests private. But keep public 
+
+### 5 Characteristics of Cloud Computing
+
+1. On Demand Service - Users can provision resources and use them without human interaction
+2. Broad Network Access - Resources available over the network, and can be accessed by diverse client platforms.
+3. Multi-tenancy and Resource Pooling - Multiple customers can share the same infrastructure and applications without compromising security and privacy. Multiple customers are served froma  single resource.
+4. Rapid Elasticity and Scalability - Automatically and quickly acquire and dispose resources when neccessary. this also allows us to quickly scale based strictly on demand.
+5. Measured service - Only pay for what is actually used.
+
+### 6 Advantages of Cloud computing
+
+1. Trade capital expenses for operational expenses.
+  - Pay on demand
+  - Reduced Total cost of Ownership
+2. Benefit from massive economies of scale.
+3. Stop guessing capacity 
+  - Scale based on actual measured usage
+4. Increased Speed and Agility
+5. No more money spent on Maintenance
+
+### Different types of Cloud computing
+
+- IAAS - Infrastructure as a service
+  - Provide building blocks for cloud IT
+  - Provides networking, computers, data storage and space
+  - Highet level of flexability
+  - Easy paralell with traditionall on-site IT
+- PaaS - Platform as a Service
+  - Remove the need for your organization to manage the underlying structure
+  - Focus on the deployment and managment of your applications
+- SaaS
+  - completed product managed by service provider
+
+
