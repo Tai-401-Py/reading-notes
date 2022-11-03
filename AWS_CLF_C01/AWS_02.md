@@ -75,3 +75,37 @@ MFA Device options
     - Gemalto (3rd Party)
   - Hardware Key FOB MFA device for AWS GovCloud
     - SurePassID (3rd Party)
+
+## AWS Access Keys, CLI and SDK
+
+There are three options to access AWS
+
+- AWS Management Console (Web interface - User + Pass + MFA)
+- AWS Command Line interface (CLI): Protected by access keys
+- AWS Software Developer Kit (SDK): - for code: protected by access Keys
+
+- Access keys are generated through the Management Console. 
+- Users manage thier own access keys
+- **Access Keys are Secret, Just like a password. DO NOT SHARE**
+- Access Key ID ~= username
+- Secret Access Key ~= password
+
+### What is AWS CLI
+
+AWS CLI is a command line interface tahe enables you to interact with AWS using your command line shell. 
+
+Gives direct access to the public APIs of AWS services. This allows you to run scripts to manage your resources.
+
+It is open source, and a good alternative to using AWS Managment Console.
+
+### What is AWS SDK
+
+- AWS Software Development Kit
+- LAnguage Specific APIs (Libraries)
+- Enables you to access and manage AWS Programaticalyly
+- embedded within your application
+- Supports
+  - SDKs (JS, Python, PHP, .NET, Ruby, Java, Go, Node.js, C++)
+  - Mobile SDKS (Android, iOS)
+  IoI Device SDKs (Embedded D, Arduino)
+- AWS CLI is built on AWS SDK Python
