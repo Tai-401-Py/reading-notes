@@ -118,3 +118,32 @@ Your cloud shell environment has a full repository and you can download and uplo
 
 You can also creat new terminal tabs.
 
+## IAM Roles for AWS Services
+
+Some AWS service will need toperform actions on your behalf.
+
+To do so we will assign permissions to AWS with IAM Roles
+
+- Common Roles
+  - EC2 Instance Roles
+  - Lambda Function Roles
+  - Roles for CloudFormation
+
+  ## IAM Security Tools
+
+- IAM credentials report ( account-level)
+  - a report that lists alll your account's users and the status of thier various credentials.
+- IAM Access Advisor (User-Level)
+  - Access advisor shows the service permissions granted to a user and when those services were last accessed
+  - Used to revise policies/permissions
+
+## IAM BEst Practices
+
+- Don't use root except for AWS account setup
+- One Physical User - One AWS User
+- Assign user to group and assign permissions
+- create a Strong Password policy
+- Use and enforce MFA
+- Create and use Roles for giving Permissions to AWS services
+- use Access Keys for Progromatic Access
+- Audit permissions of your account eith the IAM credentials report.
