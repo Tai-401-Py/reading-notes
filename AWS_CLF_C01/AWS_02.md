@@ -147,3 +147,19 @@ To do so we will assign permissions to AWS with IAM Roles
 - Create and use Roles for giving Permissions to AWS services
 - use Access Keys for Progromatic Access
 - Audit permissions of your account eith the IAM credentials report.
+
+## Shared Responsibility Model
+
+AWS is responsible is for everything they do.
+
+- Infrastructure (Global network security)
+- Compliance Validation
+- Configuration and Vulnerability analysis on thier Services
+
+You are responsible for...
+
+- Users, Groups, Roles, Policies managment and monitoring
+- Enabling MFA on all accounts
+- Rotate KEys often
+- Use IAM to apply appropriate permissions
+- Analyze access patterns and review permissions
