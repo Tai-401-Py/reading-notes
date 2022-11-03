@@ -109,3 +109,12 @@ It is open source, and a good alternative to using AWS Managment Console.
   - Mobile SDKS (Android, iOS)
   IoI Device SDKs (Embedded D, Arduino)
 - AWS CLI is built on AWS SDK Python
+
+## AWS Cloudshell 
+
+Virtual CLI, you can use it and it will default to the region being used in. If you want to specify a specific region for use use the `--region` modifier `aws iam list-users --region us-east-1`
+
+Your cloud shell environment has a full repository and you can download and upload files. 
+
+You can also creat new terminal tabs.
+
