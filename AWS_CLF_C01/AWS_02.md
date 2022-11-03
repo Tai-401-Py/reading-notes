@@ -35,3 +35,43 @@ Statements consist of...
 -Resource: List of resources to which the actions are applied to
 - Condition: Conditions for when this policy is in effect (Optional)
 
+## Account Security
+
+In AWS you can set a password policy. Strong passwords = more account security.
+
+### Password policy
+
+Options for Password policy:
+
+- Set minimum password length
+- Require specific characters
+  - include uppercase
+  - include lowercase
+  - numbers
+  - non-alphanumeric
+- Allow users to change thier passwords freely
+- Require users to change thier passwords after a set amount of time. (Expiration)
+- Prevent password reuse
+
+### MFA - Multi-factor authentication
+
+- Users have access to your account and can possibly change configurations or delete resources in your AWS account.
+- You want to protect your Root Accts and IAM users
+- A MFA = A Password you know + Security device you own.
+- Even if an account is compromised, they require a physuical device 
+
+MFA Device options
+
+- Virtual MFA Device
+  - Google Authenticator
+    - Phone Only
+  - Authy
+    - Phone and Computer
+      - Support for multiple accounts on same device
+- Universal 2nd factor U2F Security Key (Physical device)
+  - YubiKey by Yubico (3rd party)
+    - Supports many users and root accounts with a single key
+  - Hardware Key fob MFA
+    - Gemalto (3rd Party)
+  - Hardware Key FOB MFA device for AWS GovCloud
+    - SurePassID (3rd Party)
